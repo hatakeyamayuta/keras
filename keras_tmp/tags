@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+__init__	get_train_data.py	/^    def __init__(self):$/;"	m	class:file_img
+_array	get_train_data.py	/^    def _array(self,count):$/;"	m	class:file_img
+_load_data	get_train_data.py	/^    def _load_data(self):$/;"	m	class:file_img
+create_model	model.py	/^def create_model():$/;"	f
+file_img	get_train_data.py	/^class file_img():$/;"	c
+get_train_img	get_train_data.py	/^    def get_train_img(self,path):$/;"	m	class:file_img
+main	main.py	/^def main():$/;"	f
+plt_img	model.py	/^def plt_img(fit):$/;"	f
+split_data	get_train_data.py	/^    def split_data(self, X, Y):$/;"	m	class:file_img
